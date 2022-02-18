@@ -25,14 +25,14 @@ The rest of the voting power would then come from the public delegators and vali
 Before setting up any proposal on-chain, it is strongly recommended to any proposer to proceed the following way:
 
 1. Contact the team with an inquiry form
-   1. The proposer must contact the Function X team by correctly filling in the [EGF proposal form](broken-reference) for points 1-5 (inclusive) of the EGF proposal form
+   1. The proposer must contact the Function X team by correctly filling in the [EGF proposal form ](egf-proposal-form.md)for points 1-5 (inclusive) of the EGF proposal form
    2. The more information provided, the better guidance the team will be able to provide to the proposer.
 2. Identify support opportunities
    1. Identify ways to help, beyond monetary support e.g. coding, interfaces, source code, etc.
    2. Request more information in the Inquiry Form
 3. Formal proposal
    1. If identified as requiring financial support
-   2. Requires proposer to submit the fully completed [EGF proposal form](broken-reference)
+   2. Requires proposer to submit the fully completed [EGF proposal form](egf-proposal-form.md)
 4. Evaluation
    1. Provide feedback
    2. May request for more information
@@ -41,7 +41,7 @@ Before setting up any proposal on-chain, it is strongly recommended to any propo
 6. Funding decision
 7. Onboarding
    1. We’ll write up a contract and do KYC before disbursing funds
-   2. Funds will be disbursed according to <mark style="color:red;">milestones</mark>
+   2. Funds will be disbursed according to [milestones](egf-proposal-form.md#development-roadmap)
 
 ### Tiered amounts
 
