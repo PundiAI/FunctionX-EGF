@@ -1,4 +1,21 @@
-# Overview
+# EGF Grants Program
+
+### Table of Contents:
+
+1. [Overview](./#overview): how to address the issue of decentralization and achieve quorum if company validators do not vote (to maintain neutrality).
+2. [Process](./#process): The entire process of proposals, including [guidelines](applications/application-template.md), interviews, onboarding and how funds will be disbursed.
+3. [Tiers](./#tiered-amounts): different tiered amounts, benefits and requirements
+4. [Categories](./#categories-non-exhaustive-list): Identify categories proposal belongs to
+5. [Application template](applications/application-template.md):&#x20;
+   1. [Project Overview](applications/application-template.md#overview)
+   2. [Project Description](applications/application-template.md#project-description)
+   3. [Team Profile](applications/application-template.md#team-profile)
+   4. [Ecosystem fit/impact](applications/application-template.md#ecosystem-fit-impact)
+   5. [Development status](applications/application-template.md#development-status)
+   6. [Development roadmap](applications/application-template.md#development-roadmap)
+   7. [Future plans](applications/application-template.md#future-plans)
+
+### Overview
 
 All proposals are to be **voted on-chain**. Prior to on-chain voting, it is paramount that the proposer follows the following set of guidelines to ensure a greater chance that their proposal will be passed.
 
@@ -25,7 +42,12 @@ The rest of the voting power would then come from the public delegators and vali
 Before setting up any proposal on-chain, it is strongly recommended to any proposer to proceed the following way:
 
 1. Contact the team with an inquiry form
-   1. The proposer must contact the Function X team by correctly filling in the [EGF proposal form ](egf-proposal-form.md)for points 1-5 (inclusive) of the EGF proposal form
+   1. The proposer must contact the Function X team by correctly filling in the [EGF proposal form](applications/application-template.md) for points 1-5 (inclusive) of the EGF proposal form
+      1. [Fork](https://github.com/FunctionX/FunctionX-EGF/fork) this repository
+      2. In the newly created fork, create a copy of the application template ([`applications/application-template.md`](applications/application-template.md)). If you're using the GitHub web interface, you will need to create a new file and copy the [contents](https://raw.githubusercontent.com/FunctionX/FunctionX-EGF/main/applications/application-template.md) of the template inside the new one. Make sure you **do not modify the template file directly**.
+      3. Name the new file after your project: `project_name.md`.
+      4. Fill out the template with the details of your project. The more information you provide, the faster the review.
+      5. Once you're done, create a pull request. The pull request should only contain _one new file_—the Markdown file you created from the template.
    2. The more information provided, the better guidance the team will be able to provide to the proposer.
 2. Identify support opportunities
    1. Identify ways to help, beyond monetary support e.g. coding, interfaces, source code, etc.
