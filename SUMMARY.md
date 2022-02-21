@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Overview](README.md)
+* [EGF Grants Program](README.md)
 * [Application Template](applications/application-template.md)
