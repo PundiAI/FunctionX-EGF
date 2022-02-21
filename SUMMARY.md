@@ -1,4 +1,4 @@
 # Table of contents
 
 * [Overview](README.md)
-* [EGF Proposal Form Template](egf-proposal-form.md)
+* [Application Template](applications\application-template.md)
