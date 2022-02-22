@@ -2,7 +2,7 @@
 description: You may fork this template and fill in the details
 ---
 
-# EGF Proposal Form Template
+# Application Template
 
 ### Overview
 
@@ -10,7 +10,7 @@ At this stage, it is paramount the proposer provides as many details as possible
 
 After your inquiry is submitted, the team will get in touch within 3-5 business days to get the conversation started. From there, the team will answer any questions you might have and ask you for more info if needed.
 
-#### Details:&#x20;
+#### Details:
 
 {% hint style="info" %}
 _The combination of your GitHub account submitting the application and the payment address below together with your governance proposal number will be your unique identifier during the program. Please keep them safe._
@@ -18,7 +18,8 @@ _The combination of your GitHub account submitting the application and the payme
 
 * The project name:
 * Summary of your project and how it would help our ecosystem:
-* Team Name: Payment address (fx address, 0x address - Specify network and currency):
+* Team Name:&#x20;
+* Payment address (fx address, 0x address - Specify network and currency):
 * The level of amount you are requesting for? Level 1,2, 3, 4:
 * Category your project belongs to:
 
@@ -31,13 +32,13 @@ Tell the team as much about your project as you can, and do consider the followi
 #### **Details:**
 
 * Stage of your project (just an idea, already in progress, proof of concept or prototype)
-* Main goals and planned approach&#x20;
-  * Does the project roadmap fit broadly into the FunctionX/PundiX Chain roadmap?&#x20;
-* Online resources (website, research papers, articles, blog posts, GitHub, etc)&#x20;
-* Mockups/designs of any UI components Data models / API specifications of the core functionality&#x20;
-* An overview of the technology stack to be used&#x20;
-* Documentation of core components, protocols, architecture, etc. to be deployed&#x20;
-* What your project is not or will not provide or implement&#x20;
+* Main goals and planned approach
+  * Does the project roadmap fit broadly into the FunctionX/PundiX Chain roadmap?
+* Online resources (website, research papers, articles, blog posts, GitHub, etc)
+* Mockups/designs of any UI components Data models / API specifications of the core functionality
+* An overview of the technology stack to be used
+* Documentation of core components, protocols, architecture, etc. to be deployed
+* What your project is not or will not provide or implement
   * This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
 ### **Team profile**
@@ -47,10 +48,10 @@ If you're part of a team, include any member of your team who is working on the 
 #### **Details:**
 
 * Contact details
-  * Name of team leader:&#x20;
-  * Names of team members:&#x20;
-  * Contact Name: Full name of the contact person in your team&#x20;
-  * Contact Email: Contact email (e.g. <mark style="color:blue;">john@duo.com</mark>)&#x20;
+  * Name of team leader:
+  * Names of team members:
+  * Contact Name: Full name of the contact person in your team
+  * Contact Email: Contact email (e.g. <mark style="color:blue;">john@duo.com</mark>)
   * Website:
 * For companies/corporations
   * Registered Address: Address of your registered legal entity, if available.
@@ -78,13 +79,13 @@ As an organization, the team will focus on doing what's best for Function X. So,
 
 #### **Details:**
 
-* Where and how does your project fit into the ecosystem?&#x20;
-* What problem are you solving?&#x20;
-* Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?&#x20;
-* Who will benefit, and how: what tools or opportunities will people have that they didn't have before? What will be possible that wasn't possible before? Do you have anything tangible to give back to the community like airdrops?&#x20;
-* What need(s) does your project meet?&#x20;
-* Are there any other projects similar to yours in other EVM/Cosmos ecosystem?&#x20;
-  * If so, how is your project different?&#x20;
+* Where and how does your project fit into the ecosystem?
+* What problem are you solving?
+* Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+* Who will benefit, and how: what tools or opportunities will people have that they didn't have before? What will be possible that wasn't possible before? Do you have anything tangible to give back to the community like airdrops?
+* What need(s) does your project meet?
+* Are there any other projects similar to yours in other EVM/Cosmos ecosystem?
+  * If so, how is your project different?
   * If not, are there similar projects in related ecosystems?
 
 {% hint style="info" %}
@@ -95,7 +96,7 @@ Having tangibles to give back to the community will certainly help with the succ
 
 If you've already started implementing your project or if it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying.
 
-#### Details:&#x20;
+#### Details:
 
 * Academic publications relevant to the problem
 * Links to your research diary, blog posts, articles, forum discussions or open GitHub issues
@@ -117,10 +118,10 @@ This segment is to show all the costs your project requires including any resear
 #### Details:
 
 * Is the budget plan reasonable?
-* How do you plan on using the fund?&#x20;
+* How do you plan on using the fund?
 * Clear breakdown of associated costs?
   * If you are spending funds on hiring developers, you can state their qualifications and how much you expect to pay them.
-  * You can also mention the server costs and other miscellaneous costs associated with the project.&#x20;
+  * You can also mention the server costs and other miscellaneous costs associated with the project.
 * If you intend to redistribute part or total of the requested funds in any manner, please specify how you intend to do it, and how community funds will serve the general FunctionX purpose and not a specific purpose.
 
 {% hint style="info" %}
@@ -135,26 +136,26 @@ Below, we provide an example roadmap. In the descriptions, it should be clear ho
 
 For each milestone:
 
-* Make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.&#x20;
-* Include the amount of funding requested per milestone.&#x20;
-* Include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.&#x20;
-* Provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.&#x20;
-* Commit to providing Dockerfiles for the delivery of your project.&#x20;
-* Indicate milestone duration as well as number of full-time employees working on each milestone.&#x20;
+* Make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
+* Include the amount of funding requested per milestone.
+* Include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
+* Provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
+* Commit to providing Dockerfiles for the delivery of your project.
+* Indicate milestone duration as well as number of full-time employees working on each milestone.
 * Deliverables 0a-0d are mandatory for all milestones, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
 
 > **If any of your deliverables is based on somebody else's work, make sure you work and publish under the terms of the license of the respective project and that you highlight this fact in your milestone documentation and in the source code if applicable! Teams that submit others' work without attributing it will be immediately terminated.**
 
 #### **Overview**
 
-* Total Estimated Duration: Duration of the whole project (e.g. 2 months)&#x20;
-* Full-Time Equivalent (FTE): Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time\_equivalent), e.g. 2 FTE)&#x20;
+* Total Estimated Duration: Duration of the whole project (e.g. 2 months)
+* Full-Time Equivalent (FTE): Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time\_equivalent), e.g. 2 FTE)
 * Total Costs: Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the level of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in FX, the amount will be calculated according to the exchange rate at the time of payment.
 
 **Milestone 1 Example — Implement Substrate Modules**
 
-* Estimated duration: 1 month&#x20;
-* FTE: 2&#x20;
+* Estimated duration: 1 month
+* FTE: 2
 * Costs: 8,000 USD
 
 |            |                 |                                                                                                                                                                                                                                       |
@@ -170,7 +171,7 @@ For each milestone:
 **Milestone 2 Example — Additional features**
 
 * Estimated Duration: 1 month
-* FTE: 1&#x20;
+* FTE: 1
 * Costs: 4,000 USD
 
 ### **Future plans**
@@ -180,7 +181,7 @@ Post delivery of your project, how would you want to maintain and manage your pr
 #### **Details:**
 
 * How you intend to use, enhance, promote and support your project in the short term.
-* The team's long-term plans and intentions in relation to it.&#x20;
+* The team's long-term plans and intentions in relation to it.
 * Your strategy to maintain the project beyond the duration of the grant.
 
 {% hint style="info" %}
