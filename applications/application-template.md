@@ -18,7 +18,7 @@ _The combination of your GitHub account submitting the application and the payme
 
 * The project name:
 * Summary of your project and how it would help our ecosystem:
-* Team Name:&#x20;
+* Team Name:
 * Payment address (fx address, 0x address - Specify network and currency):
 * The level of amount you are requesting for? Level 1,2, 3, 4:
 * Category your project belongs to:
