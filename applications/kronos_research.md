@@ -2,12 +2,6 @@
 
 ### Overview
 
-At this stage, it is paramount the proposer provides as many details as possible so the team can provide better guidance and support. However, this can also just be the start of a conversation, so don’t lose sleep over this!
-
-After your inquiry is submitted, the team will get in touch within 3-5 business days to get the conversation started. From there, the team will answer any questions you might have and ask you for more info if needed.
-
-#### Details:
-
 * The project name: Kronos Research
 * Summary of your project and how it would help our ecosystem: Market-making on centralized exchanges. Provide greater liquidity for $FX, making it easier for $FX investors and traders to buy and sell on centralized exchanges.
 * Team Name: Kronos Research
@@ -29,7 +23,7 @@ After your inquiry is submitted, the team will get in touch within 3-5 business 
 * Main goals and planned approach: Provide greater liquidity for $FX, making it easier for $FX investors and traders to buy and sell on centralized exchanges. This will help boost the trading volume of $FX, increase the credibility of the FunctionX ecosystem and aims to attract more users into the FunctionX ecosystem.
 With the loan, Kronos Research can provide liquidity on Coinbase (FX/USD), Kucoin (FX/BTC), Bithumb (FX/KRW), and Upbit (FX/BTC). Currently the liquidity on these platforms is inconsistent, and we expect, as the terms of this proposal, to increase it by 50%-100% with stable uptimes.
 * Online resources: https://kronosresearch.com/
-* Mockups/designs, documentation: 
+
 
 ### **Team profile**
 
