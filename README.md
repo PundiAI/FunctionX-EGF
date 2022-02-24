@@ -25,7 +25,7 @@ These guidelines are written in order to:
 2. Address the issue of reaching quorum for the reasons stated below:
    1. public validators not controlling enough FX currently, and
    2. Internal and institutional validators are not voting to maintain neutrality
-3. Allow for the FunctionX team to indirectly exercise their voting power (uniquely from a delegator’s standpoint, and not from a validator’s standpoint) with full knowledge that the proposal was reviewed preliminarily by skilled peers
+3. Allow for the FunctionX team to indirectly exercise their voting power (uniquely from a delegator’s standpoint, and not from a validator’s standpoint) with full knowledge that the proposal was reviewed preliminarily by skilled individuals
 
 In that perspective, each proposal shall lead to:
 
