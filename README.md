@@ -30,8 +30,8 @@ These guidelines are written in order to:
 In that perspective, each proposal shall lead to:
 
 1. The designation of 3 team developers, for each proposal that reaches out to the committee: The internal developers are chosen based on their skillset; hence, a market-making proposal will be judged by traders/trading system engineers, while a say - NFT proposal will be judged by a smart contract developer.
-2. The assignment: Team will designate voting power to each committee member such that each committee member will control 5% of the network’s voting power
-3. Each committee member acts independently. The proposer will obtain 5% vote from each of the 3 committee members if their proposal passes each committee member’s assessment. If it passes all committee member’s assessment then the proposal would have achieved 15% “yes”.
+2. The assignment: Team will designate voting power to each committee member such that each committee member will control each one of the team's top 3 validators.
+3. Each committee member acts independently.
 
 {% hint style="info" %}
 The rest of the voting power would then come from the public delegators and validators.
