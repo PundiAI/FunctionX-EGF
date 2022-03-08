@@ -33,6 +33,13 @@ In that perspective, each proposal shall lead to:
 2. The assignment: Team will designate voting power to each committee member such that each committee member will control each one of the team's top 3 validators.
 3. Each committee member acts independently.
 
+Funding:
+1. Formal proposals should have the breakdown of all milestones and requested funds for each milestone.
+2. Only funds for each milestone can be requested at any given time.
+   1. For eg. if your project has the following specs: Milestone 1 ($3,000) & Milestone 2 ($4,000).
+   2. The submission of your EGF proposal (on-chain) should only request for $3,000.
+   3. Once you have completed Milestone 1, then you may submit another EGF proposal (on-chain) for $4,000.
+
 {% hint style="info" %}
 The rest of the voting power would then come from the public delegators and validators.
 {% endhint %}
@@ -63,7 +70,7 @@ Before setting up any proposal on-chain, it is strongly recommended to any propo
 6. Funding decision
 7. Onboarding
    1. We’ll write up a contract and do KYC before disbursing funds
-   2. Funds will be disbursed according to [milestones](egf-proposal-form.md#development-roadmap)
+   2. Funds will be disbursed according to [milestones](egf-proposal-form.md#development-roadmap). This means you can only request for funds for the milestone you are working on currently. 
 
 ### Tiered amounts
 
