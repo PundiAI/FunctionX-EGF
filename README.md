@@ -6,7 +6,7 @@
 2. [Process](./#process): The entire process of proposals, including [guidelines](applications/application-template.md), interviews, onboarding and how funds will be disbursed.
 3. [Tiers](./#tiered-amounts): different tiered amounts, benefits and requirements
 4. [Categories](./#categories-non-exhaustive-list): Identify categories proposal belongs to
-5. [Application template](applications/application-template.md):&#x20;
+5. [Application template](applications/application-template.md):
    1. [Project Overview](applications/application-template.md#overview)
    2. [Project Description](applications/application-template.md#project-description)
    3. [Team Profile](applications/application-template.md#team-profile)
@@ -49,9 +49,9 @@ The rest of the voting power would then come from the public delegators and vali
 Before setting up any proposal on-chain, it is strongly recommended to any proposer to proceed the following way:
 
 1. Contact the team with an inquiry form
-   1. The proposer must contact the Function X team by correctly filling in the [EGF proposal form](applications/application-template.md) for points 1-5 (inclusive) of the EGF proposal form
+   1. The proposer must contact the Function X team by correctly filling in the [inquiry-application-template](applications/inquiry\_proposal\_applicants/inquiry-application-template.md) which is points 1-5 (inclusive) of the EGF proposal form
       1. [Fork](https://github.com/FunctionX/FunctionX-EGF/fork) this repository
-      2. In the newly created fork, create a copy of the application template ([`applications/application-template.md`](applications/application-template.md)). If you're using the GitHub web interface, you will need to create a new file and copy the [contents](https://raw.githubusercontent.com/FunctionX/FunctionX-EGF/main/applications/application-template.md) of the template inside the new one. Make sure you **do not modify the template file directly**.
+      2. In the newly created fork, create a copy of the [inquiry-application-template](applications/inquiry\_proposal\_applicants/inquiry-application-template.md). If you're using the GitHub web interface, you will need to create a new file and copy the [contents](https://raw.githubusercontent.com/FunctionX/FunctionX-EGF/main/applications/inquiry\_proposal\_applicants/inquiry-application-template.md) of the template inside the new one. Make sure you **do not modify the template file directly**.
       3. Name the new file after your project: `project_name.md`.
       4. Fill out the template with the details of your project. The more information you provide, the faster the review.
       5. Once you're done, create a pull request. The pull request should only contain _one new file_—the Markdown file you created from the template.
@@ -61,7 +61,11 @@ Before setting up any proposal on-chain, it is strongly recommended to any propo
    2. Request more information in the Inquiry Form
 3. Formal proposal
    1. If identified as requiring financial support
-   2. Requires proposer to submit the fully completed [EGF proposal form](egf-proposal-form.md)
+   2. [Fork](https://github.com/FunctionX/FunctionX-EGF/fork) this repository
+   3. In the newly created fork, create a copy of the [formal-application-template](applications/formal\_proposal\_applicants/formal-application-template.md). If you're using the GitHub web interface, you will need to create a new file and copy the [contents](https://raw.githubusercontent.com/FunctionX/FunctionX-EGF/main/applications/formal\_proposal\_applicants/formal-application-template.md) of the template inside the new one. Make sure you **do not modify the template file directly**.
+   4. Name the new file after your project: `project_name.md`.
+   5. Fill out the template with the details of your project. The more information you provide, the faster the review.
+   6. Once you're done, create a pull request. The pull request should only contain _one new file_—the Markdown file you created from the template.
 4. Evaluation
    1. Provide feedback
    2. May request for more information
