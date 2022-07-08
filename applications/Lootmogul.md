@@ -1,5 +1,10 @@
 # Functionx EGF Grant Proposal
 
+- **Project Name:** Lootmogul
+-  **Team Name:** Lootmogul
+- **Payment Address:** 0x69Ca7ed1E033B42C28D5e3a7B802Bd74F63E752a (ERC20 USDT)
+- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 3
+
 # LootMogul
 
 ## Overview
