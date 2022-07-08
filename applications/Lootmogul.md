@@ -1,112 +1,194 @@
----
-description: You may fork this template and fill in the details
----
+# Functionx EGF Grant Proposal
 
-# Application Template
+# LootMogul
 
-### Overview
+## Overview
 
-At this stage, it is paramount the proposer provides as many details as possible so the team can provide better guidance and support. However, this can also just be the start of a conversation, so don’t lose sleep over this!
+**LootMogul** is a multiverse blockchain gaming, NFT, crypto, landsale metaverse platform for sports athletes and fans to engage in. Sports athletes from NBA, WNBA, NFL, MLB, NHL, ICC, Olympics, etc. lead the fan engagement model in our metaverse through gaming, unrivaled experiences, NFTs, and crypto tokenomics. A team of 20 blockchain & game developers, designers and founders from Santa Monica/Malibu, California. Currently, Lootmogul has 180 sports athletes (Influencers) signed up under a two-plus year contract and a total reach of 65 million people.
 
-After your inquiry is submitted, the team will get in touch within 3-5 business days to get the conversation started. From there, the team will answer any questions you might have and ask you for more info if needed.
+## Project Description
+![Lootmogul Demo - Build your own metaverse land](https://lootmogul.com/_next/image?url=https%3A%2F%2Fmedia-content.lootmogul.com%2FCreate_Land_2_1440x600_dc8b092056_095d617610.webp&w=3840&q=75)
 
-#### Details:
+LootMogul is an influencer-led sports metaverse gaming platform powered by exclusive properties (Lands, Stadium, Arenas, etc.), NFTs, and token rewards for the fans and business community.
 
-{% hint style="info" %}
-_The combination of your GitHub account submitting the application and the payment address below together with your governance proposal number will be your unique identifier during the program. Please keep them safe._
-{% endhint %}
+There are three key stakeholders in the Lootmogul community:
 
-* The project name:
-* Summary of your project and how it would help our ecosystem:
-* Team Name:
-* Payment address (fx address, 0x address - Specify network and currency):
-* The level of amount you are requesting for? Level 1,2, 3, 4:
-* Category your project belongs to:
+**Sports Athletes (Influencers)** engage with their fans in local stadiums, arenas, playgrounds, etc. through multiplayer blockchain sports games (basketball, football, soccer, baseball, pickleball, etc.) and In-Real-Life (IRL) rewards (Shoes, fitness wear, event ticket & passes, etc.)
 
-> **If you're inquiring as an individual, you can just give your own name (this doesn't need to be a legal name at this point - we just want to know what name you'd like us to use when we get in touch).**
+**Fans** enjoy an immersive experience with influencers by playing games with sports athletes' avatars, forming dream teams (ex. Larry Bird playing against Shaq), and competing at a global level.
 
-### **Project Description**
+**Land Owners** earn revenue from ticket sales, game revenue, NFT revenue, and brand sponsorship.
 
-Tell the team as much about your project as you can, and do consider the following details (where relevant).
+LootMogul has a first mover advantage in this fast-growing $800B industry and has partnered with more than 120 professional athletes from the NBA, NFL, MLB, eSports, ICC, etc., and 1.5M+ high-school and college athletes.
 
-#### **Details:**
+LootMogul is expanding the web3 community by bringing web 2 gamers and sports fanatics to the metaverse with a play-to-earn model, real-world perks, experiences, and NFT collections.
 
-* Stage of your project (just an idea, already in progress, proof of concept or prototype)
-* Main goals and planned approach
-  * Does the project roadmap fit broadly into the FunctionX/PundiX Chain roadmap?
-* Online resources (website, research papers, articles, blog posts, GitHub, etc)
-* Mockups/designs of any UI components Data models / API specifications of the core functionality
-* An overview of the technology stack to be used
-* Documentation of core components, protocols, architecture, etc. to be deployed
-* What your project is not or will not provide or implement
-  * This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+Companies or gaming guilds can own or lease NFT stadiums, seats, banners, celebrity avatars, game power, wearables etc. for their community and scholars at a 25% to 75% discount with 4% APY during the pre-sale events and mega-launch parties such as the NBA all-star weekend, NFL Superbowl, World Championship etc.
 
-### **Team profile**
+LootMogul Community - https://www.instagram.com/lootmogul/
 
-If you're part of a team, include any member of your team who is working on the project you're inquiring about. This is open-ended and you can share anything you think is relevant. You may single out a few interesting projects or past publications.
+Finally, LootMogul's seed round is funded by billion-dollar Web3 crypto companies and Web2 traditional equity venture funds - Harmony, PowerHouse Ventures, BCT, and u2poia, with grants from Polygon and Sandbox. Our token round of investments is going to be led by Woodstock, SL2 Capital, Animoca Brands and others.
 
-#### **Details:**
+We intend to create a staking derivatives on FunctionX Network. More implementations will increase capital efficiency in the FunctionX Network and enable SCRT staked to secure FunctionX Network to be used in other FunctionX Network applications such as DeFi, governance and games.
 
-* Contact details
-  * Name of team leader:
-  * Names of team members:
-  * Contact Name: Full name of the contact person in your team
-  * Contact Email: Contact email (e.g. <mark style="color:blue;">john@duo.com</mark>)
-  * Website:
-* For companies/corporations
-  * Registered Address: Address of your registered legal entity, if available.
-  * Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
-  * Registered Legal Entity: Name of your registered legal entity, if available. (e.g. Duo Ltd.)
-  * Team’s experience
-    * Team Code Repos
-      * <mark style="color:blue;">https://github.com/\<your\_organisation></mark>
-      * <mark style="color:blue;">https://github.com/\<your\_organisation>/\<project\_1></mark>
-      * <mark style="color:blue;">https://github.com/\<your\_organisation>/\<project\_2></mark>
-    * Team member’s individual repos
-      * <mark style="color:blue;">https://github.com/\<team\_member\_1></mark>
-      * <mark style="color:blue;">https://github.com/\<team\_member\_2></mark>
-    * Team’s LinkedIn Profiles (if available) or other professional social media
-      * <mark style="color:blue;">https://www.linkedin.com/\<person\_1></mark>
-      * <mark style="color:blue;">https://www.linkedin.com/\<person\_2></mark>
+Our team has been closely following Ethereum DeFi and FunctionX Network in the last year, and are active in the chat channels. Needless to say, we are really excited to see this project evolve.
 
-{% hint style="info" %}
-Showcasing past projects and your team's track record will definitely help in your proposal's chances of being successful. Additionally, the more details about your project the better, especially with regards to the research you have made and the careful planning of your project.
-{% endhint %}
+## Problem / Solution
 
-### **Ecosystem Fit/Impact**
+### Problem : 
+- Sports athletes do not have the opportunity to build community, engagement, monetize and be part of the metaverse. They are unable to capitalize on their global fan engagement etc.
 
-As an organization, the team will focus on doing what's best for Function X. So, it is important you describe how your work will benefit the Function X ecosystem.
+### Solution 
+- Play with your favourite sports influencers in a metaverse
+- Influencer led fan engagement in a sports and entertainment centric metaverse through multi-player blockchain-games, NFTs, crypto and In Real Life (IRL) rewards
 
-#### **Details:**
+## Our Vision (What we are building)
+#### A MULTIVERSE FOR SPORTS INFLUENCERS AND FANS TO ENGAGE POWERED BY GAMING GUILDS AND BRANDS
+- We build a sports fan engagement model through our competitive multi-player blockchain games, NFTs, and real-world celebrity experiences.
+- We provide simplified tools for celebrities, fans, game developers & metaverse platforms to personalize & integrate with our sports community
+- We empower gaming guilds, brands, and the community to own, lease and earn lifetime royalties through NFT stadiums, seats, avatars, wearables, etc.
 
-* Where and how does your project fit into the ecosystem?
-* What problem are you solving?
-* Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-* Who will benefit, and how: what tools or opportunities will people have that they didn't have before? What will be possible that wasn't possible before? Do you have anything tangible to give back to the community like airdrops?
-* What need(s) does your project meet?
-* Are there any other projects similar to yours in other EVM/Cosmos ecosystem?
-  * If so, how is your project different?
-  * If not, are there similar projects in related ecosystems?
+## Why Us?
+#### We are expanding the Web3 community by bringing Web2 sports fanatics & gamers into the metaverse.
+- Our star athletes use a unique academy approach to coach/engage with their fans through our metaverse games, leadership camps with In-Real Life (IRL) access & rewards. Our first multi-player trivia game is already live and many more will come over the next several months.
+- Companies or Gaming guilds can own or lease NFT stadiums, seats, banners, celebrity avatars, game power, wearables, etc. for their community and scholars at a 25% to 75% discount with 4% APY during the members-only (Lootmogul Citizen) pre-sale events and mega launch parties such as NBA all-star weekend, NFL Superbowl, World Championship, etc.
+- First mover advantage of bringing professional athletes, sports influencers, and fans to a metaverse gaming platform with real-world exclusive celebrities' experiences and their own real estate (sports metaverse* lands, e.g. stadium, playgrounds, studios, experience labs, etc.)
 
-{% hint style="info" %}
-Having tangibles to give back to the community will certainly help with the success of your proposal.
-{% endhint %}
+## Detailed Product Description
 
-### **Development status**
+#### Architecture
 
-If you've already started implementing your project or if it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying.
+![Lotmogul Server Architecture](https://github.com/nilesh-sukalikar/image-storage/blob/main/architecture.jpeg?raw=true)
 
-#### Details:
+## Go-To-Market Plan
+### Client Background 
+Lootmogul is a multiverse blockchain gaming platform for sports influencers and fans to engage in. Sports influencers from NBA, WNBA, NFL, MLB, NHL, ICC, Olympics, etc. lead the fan engagement model in our metaverse through gaming, unrivaled experiences, NFTs, and crypto-tokenomics. A team of 20 blockchain & game developers, designers, and founders from Santa Monica/Malibu, California. Currently, Lootmogul has 112 sports athletes signed up under a two-year contract and a total reach of 65 million people.
 
-* Academic publications relevant to the problem
-* Links to your research diary, blog posts, articles, forum discussions or open GitHub issues
-* References to conversations you might have had related to this project with anyone from the Web3 Foundation
-* Previous interface iterations, such as mock-ups and wireframes
-* What are the most significant obstacles facing your project or your team right now?
-  * Difficulty finding support or community
-  * Technical dilemmas
-* What are some of your most pressing needs?
-  * Feedback and direction
-  * Collaborations or connections with other teams, mentors, advisors
+### Project Goal 
+Loot Mogul seeks to have a multiplayer basketball game which also showcases NFT features. The characters are based on the players, such as Lisa Leslie, Carlos Boozer, Mario Chalmers, and many others. 
 
-> ⚠️ At the inquiry stage, you will only need to fill the template up to this part. [Development status](egf-proposal-form.md#development-status) will help us understand your needs better and help us provide better assistance to you beyond financial support.
+### Project Description 
+The project is to build a Minimum Viable Product of the Basketball + NFT game. 
+
+![roadmap](https://github.com/nilesh-sukalikar/image-storage/blob/main/roadmap.png?raw=true)
+
+## Team Members
+Raj RajKotia - Founder, CEO
+
+Kuntal Sampat - Co-Founder, COO
+
+Nilesh Sukalikar - Engr. Team Lead
+
+Corsley Edwards - Infuencer Management
+
+Harshit Kashiv - Growth Marketing
+
+Vibhu Sirvastava - Community Management
+
+### Team Website	
+ **Website:** https://lootmogul.com/
+
+### Team's Experience
+
+Raj, the Founder & CEO of LootMogul, is a Gaming, Blockchain, Crypto, and Technology expert with 18 years of disciplined leadership, guiding technology investments, and hands-on technology experience leading growth-focused start-ups, and efficiency or transformation-focused fortune 500 companies.
+
+Kuntal is the  Co-Founder, COO of LootMogul. He specializes in gaming platforms,  NFT, Product Management, Data Analytics, Marketing Acquisition / Retention, IT Infra, Customer Support, and Delivery.
+
+Nilesh is an Engineer Team Lead having 9 years of experience in Full Stack Software development along with blockchain.
+
+Corsley is an Influencer Manager at Lootmogul.
+
+Harshit works in Growth Marketing of Lootmogul with experience of over 5 years in visualization, data-led decision making, and experience of over 8 years in analytics/ data sciences.
+
+Vibhu Srivastava is in Community Management at Lootmogul with 11+ years of experience in team leadership, Growth Marketing, Retention Marketing, digital marketing, brand communication, e-commerce management, content management, and project management.
+
+We've been a team for 2 years, and...
+
+### Team Code Repos
+- https://github.com/Nextgentm/lootmogul-mobile
+- https://github.com/Nextgentm/quizsocketserver
+- https://github.com/Nextgentm/gameplatform-cms
+- https://github.com/Nextgentm/lootmogul-web
+
+### Team LinkedIn Profiles
+
+- https://www.linkedin.com/in/rajkotia/
+- https://www.linkedin.com/in/kuntalsampat/
+- https://www.linkedin.com/in/nilesh-s-700583102/
+- https://www.linkedin.com/in/corsley-edwards-12925b2a/
+- https://www.linkedin.com/in/harshitkashiv/
+- https://www.linkedin.com/in/vibhu-srivastava-a577a127/
+
+## Brand Ambassadors and Advisors
+
+- Manish Agarwal, CEO of Nazara Games 
+- Tim Tello, COO of POQ
+- Lisa Leslie
+- Angela Weathers
+- Rick Berry
+- Gerg Harrel
+- Luis Da Silva Jr.
+- Benard C. Dory
+- Carlos Boozer
+- Adrian Branch
+- Gheorge Muresan
+- Dr. John Philbines
+- Cecil Millar
+- Skip to my Lou
+- Patrick Robinson
+- Ickey Woods
+- Gunnar Waldt
+- Scott Mendes
+- Kevin Owens
+- Franc C Johnson
+- Alex Bentley
+
+
+## NFT and Metaverse Strategic Business Partners
+
+- Deborah Sawaf
+- Troy Brazell
+- Thomas E. Doyle
+
+## Development Roadmap :nut_and_bolt:
+
+### Milestone 1 — Implementing NFT, metaverse using FunctionX-network blockchain.
+
+- **Estimated duration:** 6 months
+- **FTE:** 4 to 5 developers
+- **Costs:** 120,000 USD
+
+| Number | Milestone                 | Key Activities                                                                                                                                                                                                                                                                                                  |
+| -----: | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    0a. | License                     | MIT                                                                                                                                                                                                                                                                                                          |
+|    0b. | Documentation               | We will provide inline documentation of the code and a basic tutorial of the modules delivered in this Milestone.                                                                  |
+|    0c. | Testing Guide               | Unit testing will be applied to ensure reliability. Documentation of tests and results will be provided.                                                                                                                      |
+|    0d. | Video                      | We will provide a video demonstration that will illustrate all of the functionality delivered at this milestone.                                                                                                                                                                                                  |
+|    0e. | Article                     | We will publish an **article**/workshop/gitbook that explains our application workflow as well as technical details.                                                                                                                                                                                                   |
+|    1. | Core Foundation and Infrastructure Setup                     |  * GitHub dev branch & configure supporting APIs. <br />                                                                    * Finalize requirements with internal game developers & KOL                                                                                                                                                                                                                                                                                                   |
+|    2. | Smart Contract libraries for NFT Marketplace               | * Ability to mint meta NFTs using functionx .<br /> * Ability to set royalty, pricing, KOL & guild specific tracking on functionx                                                          |
+|    3. | Stablecoin integration with functionx               | * Stable coin transaction for game in-app purchases. <br /> * Stable coin integration for all metaverse NFT and land sales                                                                                                                                 |
+|    4. | Browser extension of f(x) wallet                      | * Web 3 integration for the f(x) wallet. <br />  * NFT/Meta/Game transaction authorization and wallet tracking                                                                                                                                                                                                |
+|    5. | Fractional stadium and land ownership                     | * Integrate in-game fractional NFT ownership. <br /> * Integrate stadium fractional ownership                                                                                                                                |
+|     6. | Proof of contribution platform integration        | * Evaluate all possible proof of contribution integration for LootMogul. <br /> * Select specific paths for metaverse and in-game staking/rewards mechanics |
+|     7. | Game development and Guild integration | * Selective on chain transactions migrations for game dev. <br /> * Integrate scholar/community managers rewards for Guilds                                                                  |
+|     8. | Final Release            | * Final integration & regression testing. <br /> * Early access to scholars/KOL and full production release                                                    |
+
+### Development Roadmap
+
+- F(x) Network Integration 
+- Game Development - (Q3, Q4)
+- Backend Platform Enhancement
+- Cross Platform (blockchain) Integration
+- Tokens Launch (in game)
+
+![roadmap](https://github.com/nilesh-sukalikar/image-storage/blob/main/roadmap.png?raw=true)
+
+## Future Plans
+
+The metaverse is the next evolution of social space and connection. Lootmogul’s vision is to help bring the metaverse to life, so we are building sports stadiums in 3D spaces which will let you socialize, learn, collaborate and play in ways that go beyond what we can ever imagine.
+
+In a long run, we will cooperate and adapt our products to more Metaverse platforms, and we will also develop more creative and interactive ad types.
+
+## Additional Information
+N/A.
