@@ -24,7 +24,7 @@ There are three key stakeholders in the Lootmogul community:
 
 **Land Owners** earn revenue from ticket sales, game revenue, NFT revenue, and brand sponsorship.
 
-LootMogul has a first mover advantage in this fast-growing $800B industry and has partnered with more than 120 professional athletes from the NBA, NFL, MLB, eSports, ICC, etc., and 1.5M+ high-school and college athletes.
+LootMogul has a first mover advantage in this fast-growing $800B industry and has partnered with more than 180 professional athletes from the NBA, NFL, MLB, eSports, ICC, etc., and 1.5M+ high-school and college athletes.
 
 LootMogul is expanding the web3 community by bringing web 2 gamers and sports fanatics to the metaverse with a play-to-earn model, real-world perks, experiences, and NFT collections.
 
@@ -67,7 +67,7 @@ Our team has been closely following Ethereum DeFi and FunctionX Network in the l
 
 ## Go-To-Market Plan
 ### Client Background 
-Lootmogul is a multiverse blockchain gaming platform for sports influencers and fans to engage in. Sports influencers from NBA, WNBA, NFL, MLB, NHL, ICC, Olympics, etc. lead the fan engagement model in our metaverse through gaming, unrivaled experiences, NFTs, and crypto-tokenomics. A team of 20 blockchain & game developers, designers, and founders from Santa Monica/Malibu, California. Currently, Lootmogul has 112 sports athletes signed up under a two-year contract and a total reach of 65 million people.
+Lootmogul is a multiverse blockchain gaming platform for sports influencers and fans to engage in. Sports influencers from NBA, WNBA, NFL, MLB, NHL, ICC, Olympics, etc. lead the fan engagement model in our metaverse through gaming, unrivaled experiences, NFTs, and crypto-tokenomics. A team of 20 blockchain & game developers, designers, and founders from Santa Monica/Malibu, California. Currently, Lootmogul has 180 sports athletes signed up under a two-year contract and a total reach of 65 million people.
 
 ### Project Goal 
 Loot Mogul seeks to have a multiplayer basketball game which also showcases NFT features. The characters are based on the players, such as Lisa Leslie, Carlos Boozer, Mario Chalmers, and many others. 
