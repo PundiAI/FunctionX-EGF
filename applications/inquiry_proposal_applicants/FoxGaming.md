@@ -10,7 +10,7 @@
 
 **Payment address:**  fx1780uflqpght7etzq8auv0ram6rwy3wd6dasex9 f(x)Core (Function X Mainnet), $FX
 
-**The level of amount you are requesting for? Level 1,2, 3, 4:** Level 3 50,000 USD in FX tokens
+**The level of amount you are requesting for? Level 1,2, 3, 4:** Level 3 50,000 USD in FX tokens to kickstart the already developed nft marketplace and secure the further development & marketing. 
 
 **Distribution schematic:**
 
@@ -28,15 +28,40 @@ We apply to the three-person council (fx foundation) to release the future tranc
 
 See all hands meeting and forum:
 
-https://www.youtube.com/watch?v=CLCGdvxwM0E
+MARCH 2022
+[https://www.youtube.com/watch?v=CLCGdvxwM0E](https://youtu.be/CLCGdvxwM0E?t=1247) TIMESTAMP 21:10
 
-https://forum.functionx.io/t/foxgaming-proposal-our-preview-discussion/2757/81
+AUGUST 2022
+https://youtu.be/Enzt1Dl4eYY?t=507 TIMESTAMP 8:30
+
+Project name: FoxGaming
+Subject: NFT Marketplace
+Proposal amount: 50,000 USD in FX
+Distribution schematic:
+1.	25,000 USD after the proposal passes (hiring known NFT Artists to kick start the marketplace)
+2.	25,000 USD split into five tranches each 5,000USD. After significant development and improvement as:
+o	nft launchpad
+o	marketplace design 2.0
+o	multi collections support
+o	external collection support
+o	1000 unique users
+
+We apply to the three-person council (fx foundation) to release the future tranches after we can prove the developed updates.
+
+Benefits!:
+
+1.	Launchpad - hosting launchpads for other NFTS projects as soon as we have a decent amount of users. This will bring Artists/Developers to the FX Community!
+2.	First big use case, our marketplace is ready to roll!
+3.	Airdrop up to 5,000,000 FXG tokens:	1500 FXG to all wallets
+  (We transfer the total amount of 5,000,000 FXG to the fx company wallet as a security deposit.)
+4.	Lots of transactions using FX as fees!
+
 
 ## ***Team profile***
 
 **More about the team:**
 
-**Thilo Colberg**, 30 years old living in germany. Owner of two financial companys and developer/owner. 
+**Thilo Colberg**, 30 years old living in germany. Owner of two financial companys and web3 developer. 
 https://de.linkedin.com/in/thilo-colberg-4b36b61b3
 
 **Jose Alberto Marquez**, 39 years old living in mexico. Chief Information Security Officer, Data Protection Officer〈 Business Model Innovation,Enterprise Architecture, IoT 
@@ -67,10 +92,12 @@ Every chain needs its own NFT marketplace, so here is our! FoxChange where peopl
 
 **Who will benefit:**
 
-The entire FunctionX ecosystem. The most important usecase is the fee`s people have to pay in FX when they make any transaction on our marketplace or move the coins NFT´S attract a lot of people and investors.
+The entire FunctionX ecosystem. The most important usecase is the fee`s people have to pay in FX when they make any transaction on our marketplace or move the coins/NFTs .NFT´S attract a lot of people and investors.
 Are there any other similar projects in the FunctionX ecosystem: As it stands, there are currently no other projects like FoxGaming. 
 
 ## ***Development Roadmap***
+
+We already proved that our product is working on FX Tesnet and we are able to merch it to Mainnet.
 
 **Milestone 1 - Kickstart the marketplace**
 Description: hire up to 10 nft artists to launch their project on FX Chain and our marketplace.
@@ -79,6 +106,5 @@ banner campaign
 Milestone Tracking: After passing the vote successfully, FoxGaming will provide regular reports who we hired for the marketplace to the team.
 
 **Milestone 2 – development progress**
-Description: nft launchpad,  marketplace design 2.0, traffic on marketplace
+Description: nft launchpad,  marketplace design 2.0, traffic on marketplace,  more updates.
 Milestone Tracking: After passing the vote successfully, FoxGaming will provide regular reports and submit the application for the nex tranche. 
-> ⚠️ At the inquiry stage, you will only need to fill the template up to this part. [Development status](egf-proposal-form.md#development-status) will help us understand your needs better and help us provide better assistance to you beyond financial support.
