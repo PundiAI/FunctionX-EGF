@@ -57,7 +57,7 @@ Oracle Finance raised around 100k in presale, and after a few months of operatio
 
 Previous Works: https://github.com/Oracle-DAO
 
-The team is pseudo-anonymous but is willing to share more information/KYC details with FunctionX
+The team is pseudo-anonymous but is willing to share more information/KYC details privately with FunctionX
 team.
 
 ### **Ecosystem Fit/Impact**
@@ -78,7 +78,7 @@ leading to sub-optimal allocation of emissions.
 
 #### **Why veSwap ?**
 VeSwap Supports Stable Swaps and Uniswap Style volatile swaps, with just 0.15% fees. VeSwap also comes with curve 
-inspired gauges, and a bribe market for a better liquidity incentivization.
+inspired gauges, and a bribe market for a better and decentralised liquidity incentivization.
 
 ### **Development status**
 
