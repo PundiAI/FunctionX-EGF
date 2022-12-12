@@ -10,23 +10,28 @@ ecosystem:** VeSwap is a next generation of AMM/DEX inspired from uniswap and cu
 way to trade assets. VeSwap is designed to be fully decentralised from day one, thus giving the governance and power
 to the community.
 
-**Payment address:**
-
 **The level of amount you are requesting for?**
 Level 3, $30000
 
 Distribution schematic:
 
-1. Post completion of [Development Phase](/applications/inquiry_proposal_applicants/ve-swap.md#q4-2022-development-phase) => $10000
-3. Post completion of [Launch Phase](/applications/inquiry_proposal_applicants/ve-swap.md#q1-2023-launch-phase) => $10000
-3. Post completion of [Growth Phase](/applications/inquiry_proposal_applicants/ve-swap.md#q1-q2-2023-growthmarketing-phase) => $10000
+1. Post completion of [Development Phase](/applications/inquiry_proposal_applicants/ve-swap.md#q3---q4-2022-development-phase) => $15000
+
+The funds will be used to bootstrap initial liquidity for ($VESW/$FX or $VESW/$USDC) pair and cover initial protocol expenses.
+
+2. Post completion of [Launch Phase](/applications/inquiry_proposal_applicants/ve-swap.md#q1-2023-launch-phase) => $10000
+
+The funds will be used for future protocol development and cover protocol/marketing expenses. 
+
+3. Post completion of [Growth Phase](/applications/inquiry_proposal_applicants/ve-swap.md#q1-q2-2023-growthmarketing-phase) => $5000
 
 **Category your project belongs to:** 
 DeFi
 
 ### **Project Description**
 
-VeSwap Is an Automated market maker building upon the shortcomings of existing dexs.
+VeSwap Is an Automated market maker building on FunctionX chain. VeSwap brings significant 
+improvements compared to the current decentralised-exchanges(majorily uniswap forks) with the following features.
 
 1. Supports Stable Swaps and Uniswap Style volatile swaps with very Low Slippage.
 2. Dex with minimal Fees of just 0.15 percent, some of the lowest in defi.
@@ -59,38 +64,34 @@ team.
 
 #### **Problems with current decentralised Exchanges.**
 
-Multi Swap Curve Support
+**Multi Swap Curve Support:**
 Most exchange allow only one type of swap curve, either low slippage stable swap or uniswap style swaps.
 
-Liquidity Incentivization
+**Liquidity Incentivization:**
 Every DEX needs to maintain a healthy liquidity to provide seamless and low slippage swaps to the users.
 Providing emissions (in project token) is one of the most preferred way, but it can be costly to maintain,
 and often times result in a "farm and dump" resulting in "unsticky" liquidity.
 
-Centralised Control of Token Emission
+**Centralised Control of Token Emission:**
 Most DEX allocate tokens to LP pools in a centralized manner, rewarding their own LPs and partner protocols,
 leading to sub-optimal allocation of emissions.
 
 #### **Why veSwap ?**
-
-1. Supports Stable Swaps and Uniswap Style volatile swaps with very Low Slippage.
-2. Dex with minimal Fees of just 0.15 percent, some of the lowest in defi.
-3. Support uniswap style LP and curve-inspired Gauges for a better and decentralized liquidity incentivization.
-4. Allows permissionless access to create bribes on any LP pools
-5. Fully Decentralised from day one, with ve tokenomics. ve Holders control the protocol, revenue, and token emissions.
+VeSwap Supports Stable Swaps and Uniswap Style volatile swaps, with just 0.15% fees. VeSwap also comes with curve 
+inspired gauges, and a bribe market for a better liquidity incentivization.
 
 ### **Development status**
 
 #### **Roadmap**
 
-##### Q4 2022 (Development Phase)
+##### Q3 - Q4 2022 (Development Phase)
 
-| Tasks                           | Status |
-|---------------------------------|--------|
-| Release of VeSwap LitePaper     | DONE   |
-| VeSwap Smart Contract Readiness | Ongoing |
-| VeSwap Frontend Development     | Ongoing |
-| VeSwap Testnet Release          | TODO   |
+| Tasks                            | Status |
+|----------------------------------|--------|
+| Release of VeSwap Docs/LitePaper | DONE   |
+| VeSwap Smart Contract Readiness  | Ongoing |
+| VeSwap Frontend Development      | Ongoing |
+| VeSwap Testnet Release           | TODO   |
 
 ##### Q1 2023 (Launch Phase)
 
