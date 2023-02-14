@@ -15,11 +15,8 @@ Do note that a successful grant applicants does not mean that they have successf
 ### Table of Contents
 
 * [2022](successful\_grant\_applicants.md#2022)
-  * [1st Quarter](successful\_grant\_applicants.md#1st-quarter)
 
 ## 2022
-
-### 1st Quarter
 
 <table>
 
