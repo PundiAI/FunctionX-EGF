@@ -1,5 +1,7 @@
 # Table of contents
 
-* [EGF Grants Program](README.md)
+* [EGF Info](README.md)
+* [EGF Grants Program](<README (1).md>)
 * [Application Template](applications/application-template.md)
-* [Successful Grant Applicants](successful_grant_applicants.md)
+* [Successful Grant Applicants](successful\_grant\_applicants.md)
+* [Launching an EGF Proposal](launching-an-egf-proposal.md)
