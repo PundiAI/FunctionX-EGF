@@ -55,7 +55,7 @@ Address: 1 RAFFLES PLACE #21-01 ONE RAFFLES PLACE SINGAPORE
 
 * UI components & core function design
 
-We will load our UI soon.
+  We will load our UI pictures soon.
 
 * This is the deployed UI design for FinTax. The platform’s comprehensive functionality spans various essential services, including seamless data import from both exchanges and blockchain networks. Users can easily select specific tax events, facilitating the automatic generation of detailed tax filing forms to streamline the compliance process. Additionally, FinTax provides a comprehensive dashboard that offers an overview of all transaction and account information, allowing users to monitor their crypto assets in real-time. This user-friendly interface is designed to enhance transparency and simplify the complex tasks of financial management and tax reporting.
 
@@ -102,9 +102,11 @@ We will load our UI soon.
 Our team comprises leading tax experts who have developed tax frameworks for industry leaders and managed billions in crypto cases. Additionally, we have experienced product managers, including former professionals from Big Four accounting firms.
 
 Contact Name: Leslie
+
 Contact Email: leslie.qin@fintax.tech
 
 1. The Leading Business Team
+
 Calix (Founder & CEO)
 The former Tax Director of Bitmain, former CFO of CVITEK (an AI chip startup), and CFO of a US-listed company. He possesses extensive experience in finance, aviation, and TMT industries, having gone through multiple entrepreneurial journeys and high-growth phases.
 
@@ -121,6 +123,7 @@ Xiuai (Senior Tax Consultant)
 Specialized in Taxation at Central University of Finance and Economics, former tax manager of Bitmain, and head of finance of a startup company in the field of new energy vehicles. He has experienced various stages of enterprise life cycle for many times, and is particularly familiar with the key tax issues at different stages of enterprises. He also possesses extensive experience in finance, tax management practices, and tax planning within the Web3 industry.
 
 2. The Top-Tier Product Team
+
 Frank (Head of Product & Engineering)
 He has worked at a Big 4 accounting firm as a tax digital product leader, overseeing product design and R&D, while also serving as a product manager and technical architecture leader. With extensive experience in the digital transformation of enterprise finance and tax, he has provided services to over 100 large domestic and foreign enterprises across finance, manufacturing, energy, real estate, and other industries. He possesses an in-depth understanding of enterprise tax systems, full-stack development skills, and is well-versed in current mainstream technology frameworks.
 
