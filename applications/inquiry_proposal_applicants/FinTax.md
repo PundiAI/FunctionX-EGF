@@ -46,11 +46,51 @@ Analysis report subscription: https://taxdaodc.substack.com/
 TaxDAO community: www.thetaxdao.com
 Address: 1 RAFFLES PLACE #21-01 ONE RAFFLES PLACE SINGAPORE
 
-* Mockups/designs of any UI components Data models / API specifications of the core functionality
-* An overview of the technology stack to be used
-* Documentation of core components, protocols, architecture, etc. to be deployed
-* What your project is not or will not provide or implement
-  * This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+* UI components & core function design
+
+![image-20241113110729484](/Users/lifangran/Library/Application Support/typora-user-images/image-20241113110729484.png)
+
+![image-20241113113011379](/Users/lifangran/Library/Application Support/typora-user-images/image-20241113113011379.png)![image-20241113113031652](/Users/lifangran/Library/Application Support/typora-user-images/image-20241113113031652.png)
+
+* This is the deployed UI design for FinTax. The platform’s comprehensive functionality spans various essential services, including seamless data import from both exchanges and blockchain networks. Users can easily select specific tax events, facilitating the automatic generation of detailed tax filing forms to streamline the compliance process. Additionally, FinTax provides a comprehensive dashboard that offers an overview of all transaction and account information, allowing users to monitor their crypto assets in real-time. This user-friendly interface is designed to enhance transparency and simplify the complex tasks of financial management and tax reporting.
+
+* In addition, we plan to expand this functionality by incorporating AI-driven conversational interactions that will guide users through the entire tax filing process. This enhancement aims to provide a seamless, interactive experience, making it easier for users to navigate complex tax requirements with step-by-step assistance.
+
+* Technology stack
+
+  Our entire stack of components is built under the permissive MIT open-source license, ensuring flexibility and transparency in our development process. This includes a range of robust technologies such as **MyBatis-Flex** for database interaction, **JDK 21** for a modern Java runtime, **Spring Boot V3.2.X+** for rapid and efficient application development, and **Lombok** for code simplification.
+
+  For authentication and security, we utilize **Sa-Token**, while **SpringDoc** aids in generating comprehensive API documentation. Utility support is provided by **Hutool**, and **SpringBoot Admin** facilitates application monitoring. Our retry mechanisms are powered by **EasyRetry**, and **PowerJob** handles distributed task scheduling efficiently.
+
+  On the front end, we leverage **Vue 3** alongside **Element-Plus** to create intuitive and responsive user interfaces. We also use **MinIO** for object storage solutions and **Flowable** for workflow and business process management. This robust combination of open-source tools ensures a scalable, maintainable, and powerful architecture for our applications.
+
+  ​	1.	**MyBatis-Flex**: https://mybatis.org/mybatis-3/
+
+  ​	2.	**JDK 21**: https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html
+
+  ​	3.	**Spring Boot V3.2.X+**: https://spring.io/projects/spring-boot
+
+  ​	4.	**Lombok**: https://projectlombok.org/
+
+  ​	5.	**Sa-Token**: http://sa-token.dev33.cn/
+
+  ​	6.	**SpringDoc**: https://springdoc.org/
+
+  ​	7.	**Hutool**: https://hutool.cn/
+
+  ​	8.	**SpringBoot Admin**: https://codecentric.github.io/spring-boot-admin/current/
+
+  ​	9.	**EasyRetry**: [GitHub - EasyRetry](https://github.com/easyproject/EasyRetry)
+
+  ​	10.	**PowerJob**: https://www.powerjob.tech/
+
+  ​	11.	**Vue 3**: https://vuejs.org/
+
+  ​	12.	**Element-Plus**: https://element-plus.org/
+
+  ​	13.	**MinIO**: https://min.io/
+
+  ​	14.	**Flowable**: https://www.flowable.com/open-source/
 
 ### **Team profile**
 
@@ -123,14 +163,11 @@ This is our product's website: www.fintax.tech
 
 #### Details:
 
-* Academic publications relevant to the problem
-* Links to your research diary, blog posts, articles, forum discussions or open GitHub issues
-* References to conversations you might have had related to this project with anyone from the Web3 Foundation
+* We have an expert organization dedicated to researching and analyzing Web3 financial and tax knowledge. This team frequently updates its findings, insights, and publications to ensure the most relevant and timely content is available to the community. Our commitment to advancing the understanding of crypto-related financial and tax regulations is demonstrated through continuous research and articles published on our content platform. You can find our comprehensive resources at https://www.thetaxdao.com/.
+* We use PingCode for task management, which is a platform similar to Jira, designed to help teams collaborate effectively and manage complex projects. Currently, we are adopting a centralized development approach, and therefore, we do not provide public access to our development boards or task management system. However, we can share periodic exports of our work plans and milestones to keep stakeholders informed. At this time, we do not open GitHub issues for external participation. This approach allows us to maintain focus and streamline our development process while still offering transparency through planned updates as needed.
 * Previous interface iterations, such as mock-ups and wireframes
-
 * What are the most significant obstacles facing your project or your team right now?
 Our primary challenge at the moment is the shortage of development engineers, which limits our capacity to fully implement and integrate with the Function X ecosystem as quickly as desired. This has created a need for additional budget to support development resources for ecosystem integration and deployment.
-
 * What are some of your most pressing needs?
 To achieve effective integration and promote FinTax within the Function X ecosystem, we are seeking:
 1. Budget for Developer Resources: This would enable us to expand our team, accelerate development, and ensure a smooth integration and deployment with the Function X ecosystem.
