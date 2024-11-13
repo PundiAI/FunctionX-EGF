@@ -37,20 +37,25 @@ FinTax software for individuals currently supports tax filing for the U.S., Cana
 * Main goals and planned approach
 We aim to integrate Pundi AIFX by securely and anonymously transferring data from the Pundi AIFX chain to the FinTax system, allowing users to easily generate financial reports. Additionally, we will contribute valuable financial and tax data to the Pundi AIFX ecosystem through the TaxDAO community.
 
-* Online resources 
+* Online resources
+
 Website: www.fintax.tech
+
 Twitter: https://x.com/FinTax_Offical
+
 Telegram: https://t.me/TaxDAOEN
+
 LinkedIn: https://www.linkedin.com/company/fintaxdc
-Analysis report subscription: https://taxdaodc.substack.com/
+
+Analysis report subscription: https://bit.ly/TaxDAO-EN
+
 TaxDAO community: www.thetaxdao.com
+
 Address: 1 RAFFLES PLACE #21-01 ONE RAFFLES PLACE SINGAPORE
 
 * UI components & core function design
 
-![image-20241113110729484](/Users/lifangran/Library/Application Support/typora-user-images/image-20241113110729484.png)
-
-![image-20241113113011379](/Users/lifangran/Library/Application Support/typora-user-images/image-20241113113011379.png)![image-20241113113031652](/Users/lifangran/Library/Application Support/typora-user-images/image-20241113113031652.png)
+We will load our UI soon.
 
 * This is the deployed UI design for FinTax. The platform’s comprehensive functionality spans various essential services, including seamless data import from both exchanges and blockchain networks. Users can easily select specific tax events, facilitating the automatic generation of detailed tax filing forms to streamline the compliance process. Additionally, FinTax provides a comprehensive dashboard that offers an overview of all transaction and account information, allowing users to monitor their crypto assets in real-time. This user-friendly interface is designed to enhance transparency and simplify the complex tasks of financial management and tax reporting.
 
