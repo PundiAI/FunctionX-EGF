@@ -186,9 +186,9 @@ To achieve effective integration and promote FinTax within the Function X ecosys
 
 ### **Associated costs**
 
-* Total Budget: $50,000
+Total Budget: $50,000
 
-* Milestone 1: Organize Web3 Tax and Financial Knowledge Corpus & Upload to Pundi AI
+** Milestone 1: Organize Web3 Tax and Financial Knowledge Corpus & Upload to Pundi AI **
 Estimated Time: 2 months
 Objective: Organize Web3 tax and financial knowledge and upload it to Pundi AI as a data provider.
 
@@ -213,7 +213,8 @@ Project Manager (2 months): $3,000
 
 Subtotal for Milestone 1: $15,000
 
-* Milestone 2: Integrate OpenAI API & Develop Frontend Interface, Integrate FinTax System with Pundi AI Blockchain
+** Milestone 2: Integrate OpenAI API & Develop Frontend Interface, Integrate FinTax System with Pundi AI Blockchain **
+
 Estimated Time: 2 months
 Objective: Integrate OpenAI API for foundational AI capabilities, develop a frontend interface for Web3 tax policy exploration, and integrate the FinTax system with the Pundi AI blockchain for easier management of on-chain assets and tax reporting.
 
