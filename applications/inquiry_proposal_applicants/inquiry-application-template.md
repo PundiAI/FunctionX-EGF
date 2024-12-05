@@ -16,11 +16,11 @@ After your inquiry is submitted, the team will get in touch within 3-5 business 
 _The combination of your GitHub account submitting the application and the payment address below together with your governance proposal number will be your unique identifier during the program. Please keep them safe._
 {% endhint %}
 
-* The project name:
+* The project name: 
 * Summary of your project and how it would help our ecosystem:
-* Team Name:
-* Payment address (fx address, 0x address - Specify network and currency):
-* The level of amount you are requesting for? Level 1,2, 3, 4:
+* Team Name: 
+* Payment address (fx address, 0x address - Specify network and currency): 
+* The level of amount you are requesting for? Level 1,2, 3, 4: 
 * Category your project belongs to:
 
 > **If you're inquiring as an individual, you can just give your own name (this doesn't need to be a legal name at this point - we just want to know what name you'd like us to use when we get in touch).**
