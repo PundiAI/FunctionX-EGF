@@ -19,7 +19,7 @@ _The combination of your GitHub account submitting the application and the payme
 * The project name: FINTAX 
 * Summary of your project and how it would help our ecosystem: FinTax is a Web3 crypto asset financial and tax management platform that will enhance the Pundi AIFX ecosystem by (1) helping users import data from the Pundi AIFX chain for streamlined financial management and tax reporting, and (2) contributing our accumulated financial and tax content as valuable data resources for the community.
 * Team Name: FINTAX TEAM
-* Payment address (fx address, 0x address - Specify network and currency): 0x3D28D2667880f79D10A4F63726FA087c70dE758d
+* Payment address (fx address, 0x address - Specify network and currency): fx1c4s44skynanf4wryd63hh3yk4yl4t0vn5wdt0n
 * The level of amount you are requesting for? Level 1,2, 3, 4: Level 3, $50,000 help to develop FinTax system and start marketing.
 * Category your project belongs to: Off-chain apps - General apps
 
@@ -188,67 +188,65 @@ To achieve effective integration and promote FinTax within the Function X ecosys
 
 Total Budget: $50,000
 
-### ** Milestone 1: Organize Web3 Tax and Financial Knowledge Corpus & Upload to Pundi AI **
+### Milestone 1: Organize Web3 Tax and Financial Knowledge Corpus & Upload to Pundi AI
 
-Estimated Time: 2 months
+Estimated Time: 1 months
 Objective: Organize Web3 tax and financial knowledge and upload it to Pundi AI as a data provider.
 
 Cost Breakdown:
 Data Organization and Knowledge Base Development
 
 This includes the work of organizing Web3 tax and financial knowledge and preparing it for upload to Pundi AI.
-Estimated Cost: $4,000
-Tax Expert Fees (internal team): $2,000
+Estimated Cost: $9,000
+Tax Expert Fees (internal team): $7,000
 Tools and Resources (database construction, organization tools): $2,000
 Pundi AI API Integration
 
 This task involves integrating the Web3 knowledge base with the Pundi AI system and testing the API connection.
-Estimated Cost: $8,000
-Senior Developer (API integration): $6,000 (2 developers, 2 months)
-Testing and Validation: $2,000 (QA specialist)
+Estimated Cost: $13,000
+Senior Developer (API integration): $10,000 (2 developers, 1 months)
+Testing and Validation: $3,000 (QA specialist)
 Project Management and Coordination
 
 A project manager will ensure the smooth progress of the milestone, coordinating tasks across teams.
 Estimated Cost: $3,000
-Project Manager (2 months): $3,000
+Project Manager (1 months): $3,000
 
-Subtotal for Milestone 1: $15,000
+Subtotal for Milestone 1: $25,000
 
-### ** Milestone 2: Integrate OpenAI API & Develop Frontend Interface, Integrate FinTax System with Pundi AI Blockchain **
+### Milestone 2: Integrate OpenAI API & Develop Frontend Interface, Integrate FinTax System with Pundi AI Blockchain
 
-Estimated Time: 2 months
+Estimated Time: 1 months
 Objective: Integrate OpenAI API for foundational AI capabilities, develop a frontend interface for Web3 tax policy exploration, and integrate the FinTax system with the Pundi AI blockchain for easier management of on-chain assets and tax reporting.
 
 Cost Breakdown:
 OpenAI API Integration and AI Capabilities
 
 This involves integrating the OpenAI API and developing basic AI capabilities for the platform.
-Estimated Cost: $10,000
-OpenAI API Integration: $7,000 (2 developers, 2 months)
+Estimated Cost: $9,000
+OpenAI API Integration: $7,000 (2 developers, 1 months)
 Testing and Optimization: $2,000
-Server and Data Storage: $1,000
 Frontend Interface Development
 
 This includes developing a user-friendly frontend interface for interacting with Web3 tax policies and the AI system.
 Estimated Cost: $8,000
-Frontend Development (React or similar technology): $5,500 (2 developers, 2 months)
+Frontend Development (React or similar technology): $5,500 (1 developers, 1 months)
 UI/UX Design: $2,500 (designer fees)
 FinTax System and Pundi AI Blockchain Integration
 
 This involves integrating the FinTax system with the Pundi AI blockchain, enabling users to manage on-chain assets and handle tax reporting.
-Estimated Cost: $9,000
-Blockchain Development and Integration: $7,000 (2 blockchain developers, 2 months)
-Testing and Deployment: $2,000
+Estimated Cost: $5,000
+Blockchain Development and Integration: $7,000 (1 blockchain developers, 1 months)
+Testing and Deployment: $1,000
 Project Management and Coordination
 
 Similar to Milestone 1, a project manager will oversee the tasks for this milestone to ensure timely delivery.
 Estimated Cost: $3,000
 Project Manager (2 months): $3,000
 
-Subtotal for Milestone 2: $30,000
+Subtotal for Milestone 2: $25,000
 
-Remaining Budget for Miscellaneous Expenses: $5,000
-This remaining budget will cover any unforeseen costs or minor adjustments during the project execution phase (e.g., additional tools, additional hours for developers, etc.).
+
 
 
 ### **Development Roadmap**
@@ -263,7 +261,7 @@ This remaining budget will cover any unforeseen costs or minor adjustments durin
 
 * Estimated duration: 2 month
 * FTE: 2
-* Costs: 15,000 USD
+* Costs: 25,000 USD
 
 |            |                 |                                                                                                                                                                                                                                       |
 | ---------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -279,7 +277,7 @@ This remaining budget will cover any unforeseen costs or minor adjustments durin
 
 * Estimated Duration: 2 month
 * FTE: 4
-* Costs: 30,000 USD
+* Costs: 25,000 USD
 
 |            |                 |                                                                                                                                                                                                                                       |
 | ---------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
